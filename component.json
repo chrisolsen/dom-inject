@@ -1,0 +1,6 @@
+{
+  "scripts": ["index.js"],
+  "dependencies": {
+    "component/dom": "*"
+  }
+}
