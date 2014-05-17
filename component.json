@@ -1,6 +1,16 @@
 {
+  "name": "dom-inject",
+  "version": "0.1.0",
+  "description": "DOM element injector",
+  "keywords": [
+    "dom",
+    "html",
+    "inject"
+  ],
   "scripts": ["index.js"],
   "dependencies": {
     "component/dom": "*"
-  }
+  },
+  "repository": "chrisolsen/dom-inject",
+  "license": "MIT"
 }
